@@ -1,0 +1,6 @@
+c:\users\urszula\documents\visual studio 2015\Projects\HelloWorldNewUG\HelloWorldNewUG\bin\Debug\HelloWorldNewUG.exe.config
+c:\users\urszula\documents\visual studio 2015\Projects\HelloWorldNewUG\HelloWorldNewUG\bin\Debug\HelloWorldNewUG.exe
+c:\users\urszula\documents\visual studio 2015\Projects\HelloWorldNewUG\HelloWorldNewUG\bin\Debug\HelloWorldNewUG.pdb
+c:\users\urszula\documents\visual studio 2015\Projects\HelloWorldNewUG\HelloWorldNewUG\obj\Debug\HelloWorldNewUG.csprojResolveAssemblyReference.cache
+c:\users\urszula\documents\visual studio 2015\Projects\HelloWorldNewUG\HelloWorldNewUG\obj\Debug\HelloWorldNewUG.exe
+c:\users\urszula\documents\visual studio 2015\Projects\HelloWorldNewUG\HelloWorldNewUG\obj\Debug\HelloWorldNewUG.pdb
